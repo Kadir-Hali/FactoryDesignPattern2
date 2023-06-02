@@ -1,11 +1,7 @@
 ﻿namespace FactoryDesignPattern2;
 
 public enum ScreenModel
-{
-    Windows,
-    Web,
-    Mobile
-}
+{ Windows, Web, Mobile }
 
 public class Creator
 {
